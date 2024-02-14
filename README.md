@@ -18,7 +18,7 @@ The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) Dat
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhipatel35/breast-cancer-svm.git
+   git clone https://github.com/abhipatel35/SVM-Hyperparameter-Optimization-for-Breast-Cancer.git
 2. Navigate to the project directory:
    ```bash
    cd breast-cancer-svm
